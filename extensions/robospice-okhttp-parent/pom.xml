@@ -23,7 +23,7 @@
 	</modules>
 
 	<properties>
-		<okhttp.version>2.4.0</okhttp.version>
+		<okhttp.version>2.3.0</okhttp.version>
 	</properties>
 
 	<dependencyManagement>
